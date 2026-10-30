@@ -1,0 +1,7 @@
+{
+  "name": "assignment14-typescript-oop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "tsc -p tsconfig.json", "start": "node dist/main.js"},
+  "devDependencies": {"typescript": "^5.7.2"}
+}
